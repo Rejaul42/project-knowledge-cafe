@@ -4,9 +4,9 @@
       "cover": "https://i.ibb.co/gP5P9Mw/579-business-cover-page-template.jpg",
       "title": "Exploring the Mysteries of Deep Space",
       "author": "Dr. Astronova Cosmos",
-      "author-img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
-      "posted-date": "September 13, 2023",
-      "reading-time": 6,
+      "author_img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
+      "posted_date": "September 13, 2023",
+      "reading_time": 6,
       "hashtags": ["Space", "Astronomy", "Cosmos"]
     },
     {
@@ -14,9 +14,9 @@
       "cover": "https://i.ibb.co/vPQkHpk/252-Fashion-sale-facebook-cover-page-template.jpg",
       "title": "Gourmet Delights: Culinary Adventures in Paris",
       "author": "Chef Gustave Gourmand",
-      "author-img": "https://i.ibb.co/wNYyr4k/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
-      "posted-date": "September 14, 2023",
-      "reading-time": 9,
+      "author_img": "https://i.ibb.co/wNYyr4k/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "posted_date": "September 14, 2023",
+      "reading_time": 9,
       "hashtags": ["Foodie", "ParisEats", "Cuisine"]
     },
     {
@@ -24,9 +24,9 @@
       "cover": "https://i.ibb.co/gP5P9Mw/579-business-cover-page-template.jpg",
       "title": "Mastering the Art of DIY Home Decor",
       "author": "Emily Craftington",
-      "author-img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
+      "author_img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
       "posted-date": "September 15, 2023",
-      "reading-time": 10,
+      "reading_time": 10,
       "hashtags": ["DIY", "HomeDecor", "Crafting"]
     },
     {
@@ -34,9 +34,9 @@
       "cover": "https://i.ibb.co/vPQkHpk/252-Fashion-sale-facebook-cover-page-template.jpg",
       "title": "Tech Titans: Innovators Who Shaped the Digital Age",
       "author": "Dr. Innovio Techster",
-      "author-img": "https://i.ibb.co/wNYyr4k/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
-      "posted-date": "September 16, 2023",
-      "reading-time": 8,
+      "author_img": "https://i.ibb.co/wNYyr4k/front-view-young-man-sunglasses-sitting-along-with-laptop-white-space.jpg",
+      "posted_date": "September 16, 2023",
+      "reading_time": 8,
       "hashtags": ["TechHistory", "Innovation", "DigitalAge"]
     },
     {
@@ -44,9 +44,9 @@
       "cover": "https://i.ibb.co/gP5P9Mw/579-business-cover-page-template.jpg",
       "title": "Mindfulness Meditation: A Path to Inner Peace",
       "author": "Zen Master Lotus Bloom",
-      "author-img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
-      "posted-date": "September 17, 2023",
-      "reading-time": 7,
+      "author_img": "https://i.ibb.co/sg1zB2t/beauty-woman-s-with-blue-eyes-portrait.jpg",
+      "posted_date": "September 17, 2023",
+      "reading_time": 7,
       "hashtags": ["Mindfulness", "Meditation", "InnerPeace"]
     }
   ]
